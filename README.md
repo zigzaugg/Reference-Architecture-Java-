@@ -1,1 +1,1 @@
-echo # Reference-Architecture-Java-
+# Reference-Architecture-Java
