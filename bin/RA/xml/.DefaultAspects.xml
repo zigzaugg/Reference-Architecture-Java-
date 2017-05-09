@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><aspects>
+	<aspect id="0">
+		<name>Integration withBREAKDesktop Applications</name>
+		<color>5</color>
+		<x>0</x>
+		<y>1</y>
+	</aspect>
+	<aspect id="1">
+		<name>Integration withBREAKWeb Client</name>
+		<color>5</color>
+		<x>1</x>
+		<y>1</y>
+	</aspect>
+	<aspect id="2">
+		<name>Integration withBREAKBusiness Applications</name>
+		<color>5</color>
+		<x>2</x>
+		<y>1</y>
+	</aspect>
+	<aspect id="3">
+		<name>Capture</name>
+		<color>5</color>
+		<x>0</x>
+		<y>2</y>
+	</aspect>
+	<aspect id="4">
+		<name>E-Forms</name>
+		<color>5</color>
+		<x>1</x>
+		<y>2</y>
+	</aspect>
+	<aspect id="5">
+		<name>Portal</name>
+		<color>5</color>
+		<x>2</x>
+		<y>2</y>
+	</aspect>
+	<aspect id="6">
+		<name>Collaboration</name>
+		<color>5</color>
+		<x>0</x>
+		<y>4</y>
+	</aspect>
+	<aspect id="7">
+		<name>Workflow</name>
+		<color>5</color>
+		<x>1</x>
+		<y>4</y>
+	</aspect>
+	<aspect id="8">
+		<name>ProcessBREAKAutomation</name>
+		<color>5</color>
+		<x>2</x>
+		<y>4</y>
+	</aspect>
+	<aspect id="9">
+		<name>Search</name>
+		<color>5</color>
+		<x>0</x>
+		<y>6</y>
+	</aspect>
+	<aspect id="10">
+		<name>TaxonomyBREAKManagement</name>
+		<color>5</color>
+		<x>1</x>
+		<y>6</y>
+	</aspect>
+	<aspect id="11">
+		<name>DocumentBREAKAssembly/Publishing</name>
+		<color>5</color>
+		<x>2</x>
+		<y>6</y>
+	</aspect>
+	<aspect id="12">
+		<name>Security</name>
+		<color>5</color>
+		<x>0</x>
+		<y>7</y>
+	</aspect>
+	<aspect id="13">
+		<name>Digital RightsBREAKManagement</name>
+		<color>5</color>
+		<x>1</x>
+		<y>7</y>
+	</aspect>
+	<aspect id="14">
+		<name>E-Discovery</name>
+		<color>5</color>
+		<x>2</x>
+		<y>7</y>
+	</aspect>
+	<aspect id="15">
+		<name>DocumentBREAKManagement</name>
+		<color>5</color>
+		<x>0</x>
+		<y>9</y>
+	</aspect>
+	<aspect id="16">
+		<name>ImageBREAKManagement</name>
+		<color>5</color>
+		<x>1</x>
+		<y>9</y>
+	</aspect>
+	<aspect id="17">
+		<name>Web ContentBREAKManagement</name>
+		<color>5</color>
+		<x>2</x>
+		<y>9</y>
+	</aspect>
+	<aspect id="18">
+		<name>Digital AssetBREAKManagement</name>
+		<color>5</color>
+		<x>0</x>
+		<y>10</y>
+	</aspect>
+	<aspect id="19">
+		<name>Mainframe OutputBREAKManagement</name>
+		<color>5</color>
+		<x>1</x>
+		<y>10</y>
+	</aspect>
+	<aspect id="20">
+		<name>Records Management</name>
+		<color>5</color>
+		<x>2</x>
+		<y>10</y>
+	</aspect>
+	<aspect id="21">
+		<name>Email Management</name>
+		<color>5</color>
+		<x>0</x>
+		<y>11</y>
+	</aspect>
+	<aspect id="22">
+		<name>Storage</name>
+		<color>5</color>
+		<x>1</x>
+		<y>11</y>
+	</aspect>
+</aspects>

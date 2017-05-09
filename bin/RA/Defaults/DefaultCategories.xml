@@ -1,0 +1,18 @@
+<categories>
+	<category id="0">
+		<name>Presentation</name>
+		<y>0</y>
+	</category>
+	<category id="1">
+		<name>Process Management</name>
+		<y>3</y>
+	</category>
+	<category id="2">
+		<name>Content Middleware</name>
+		<y>5</y>
+	</category>
+	<category id="3">
+		<name>Repository</name>
+		<y>8</y>
+	</category>
+</categories>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><aspects>
+	<aspect id="0">
+		<name>Integration with Desktop Applications</name>
+		<color>1</color>
+		<x>0</x>
+		<y>1</y>
+	</aspect>
+	<aspect id="1">
+		<name>Integration with Web Client</name>
+		<color>3</color>
+		<x>1</x>
+		<y>1</y>
+	</aspect>
+	<aspect id="2">
+		<name>Integration with Business Applications</name>
+		<color>1</color>
+		<x>2</x>
+		<y>1</y>
+	</aspect>
+	<aspect id="3">
+		<name>Capture</name>
+		<color>1</color>
+		<x>0</x>
+		<y>2</y>
+	</aspect>
+	<aspect id="4">
+		<name>E-Forms</name>
+		<color>2</color>
+		<x>1</x>
+		<y>2</y>
+	</aspect>
+	<aspect id="5">
+		<name>Portal</name>
+		<color>3</color>
+		<x>2</x>
+		<y>2</y>
+	</aspect>
+	<aspect id="6">
+		<name>Collaboration</name>
+		<color>3</color>
+		<x>0</x>
+		<y>4</y>
+	</aspect>
+	<aspect id="7">
+		<name>Workflow</name>
+		<color>3</color>
+		<x>1</x>
+		<y>4</y>
+	</aspect>
+	<aspect id="8">
+		<name>Process Automation</name>
+		<color>2</color>
+		<x>2</x>
+		<y>4</y>
+	</aspect>
+	<aspect id="9">
+		<name>Search</name>
+		<color>4</color>
+		<x>0</x>
+		<y>6</y>
+	</aspect>
+	<aspect id="10">
+		<name>Taxonomy Management</name>
+		<color>3</color>
+		<x>1</x>
+		<y>6</y>
+	</aspect>
+	<aspect id="11">
+		<name>Document Assembly/Publishing</name>
+		<color>2</color>
+		<x>2</x>
+		<y>6</y>
+	</aspect>
+	<aspect id="12">
+		<name>Security</name>
+		<color>1</color>
+		<x>0</x>
+		<y>7</y>
+	</aspect>
+	<aspect id="13">
+		<name>Digital Rights Management</name>
+		<color>3</color>
+		<x>1</x>
+		<y>7</y>
+	</aspect>
+	<aspect id="14">
+		<name>E-Discovery</name>
+		<color>3</color>
+		<x>2</x>
+		<y>7</y>
+	</aspect>
+	<aspect id="15">
+		<name>Document Management</name>
+		<color>3</color>
+		<x>0</x>
+		<y>9</y>
+	</aspect>
+	<aspect id="16">
+		<name>Image Management</name>
+		<color>1</color>
+		<x>1</x>
+		<y>9</y>
+	</aspect>
+	<aspect id="17">
+		<name>Web Content Management</name>
+		<color>2</color>
+		<x>2</x>
+		<y>9</y>
+	</aspect>
+	<aspect id="18">
+		<name>Digital Asset Management</name>
+		<color>2</color>
+		<x>0</x>
+		<y>10</y>
+	</aspect>
+	<aspect id="19">
+		<name>Mainframe Output Management</name>
+		<color>4</color>
+		<x>1</x>
+		<y>10</y>
+	</aspect>
+	<aspect id="20">
+		<name>Records Management</name>
+		<color>1</color>
+		<x>2</x>
+		<y>10</y>
+	</aspect>
+	<aspect id="21">
+		<name>Email Management</name>
+		<color>2</color>
+		<x>0</x>
+		<y>11</y>
+	</aspect>
+	<aspect id="22">
+		<name>Storage</name>
+		<color>1</color>
+		<x>1</x>
+		<y>11</y>
+	</aspect>
+</aspects>
